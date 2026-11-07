@@ -1,0 +1,3 @@
+item_type,brand,model_number,serial_number,document_found,source_url,source_type,reliability_note,found_via,date_found,vault_location,status,notes
+appliance,Whirlpool,WFW9620HC,,Use & Care Guide + Install Guide,https://www.whirlpool.com/owner-center.html,manufacturer,reliable,manufacturer owner center,2026-11-07,Appliances/Washer/WFW9620HC,found,Example row - delete or overwrite
+tool,Generic,MODEL-EXAMPLE,,Owner's Manual,,,search pattern,,,Devices/Tools/model-example,not found,Example row - replace with your own hunt
